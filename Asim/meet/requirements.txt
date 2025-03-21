@@ -1,0 +1,6 @@
+composio_langchain==0.7.1
+Flask==3.1.0
+langchain==0.3.18
+langchain_openai==0.3.4
+python-dotenv==1.0.1
+pytz==2025.1

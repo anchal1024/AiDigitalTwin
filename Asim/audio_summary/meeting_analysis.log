@@ -1,0 +1,17 @@
+2025-02-09 09:22:25,293 - __main__ - INFO - Starting Meeting Analysis Server...
+2025-02-09 09:22:25,306 - werkzeug - WARNING -  * Debugger is active!
+2025-02-09 09:22:25,308 - werkzeug - INFO -  * Debugger PIN: 804-385-508
+2025-02-09 09:22:35,490 - __main__ - INFO - Starting analysis for meet_id: tqt-ubsn-zyp
+2025-02-09 09:22:40,233 - __main__ - INFO - Analysis completed and stored for meet_id: tqt-ubsn-zyp
+2025-02-09 09:22:40,233 - werkzeug - INFO - 127.0.0.1 - - [09/Feb/2025 09:22:40] "POST /analyze/tqt-ubsn-zyp HTTP/1.1" 200 -
+2025-02-09 09:28:56,211 - __main__ - INFO - Starting Meeting Analysis Server...
+2025-02-09 09:28:56,222 - werkzeug - WARNING -  * Debugger is active!
+2025-02-09 09:28:56,225 - werkzeug - INFO -  * Debugger PIN: 804-385-508
+2025-02-09 09:29:13,235 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Asim\\OneDrive\\Desktop\\projects\\Init-to-win-it\\Asim\\audio_summary\\audio.py', reloading
+2025-02-09 09:29:24,817 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-02-09 09:29:24,818 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-02-09 09:29:28,024 - __main__ - INFO - Successfully configured Gemini API
+2025-02-09 09:29:28,024 - __main__ - INFO - Starting Audio Analysis Server...
+2025-02-09 09:29:28,033 - werkzeug - WARNING -  * Debugger is active!
+2025-02-09 09:29:28,037 - werkzeug - INFO -  * Debugger PIN: 804-385-508
+2025-02-09 09:29:46,491 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Asim\\OneDrive\\Desktop\\projects\\Init-to-win-it\\Asim\\audio_summary\\audio.py', reloading

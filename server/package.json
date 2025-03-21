@@ -1,0 +1,34 @@
+{
+  "name": "server",
+  "main": "server.js",
+  "version": "1.0.0",
+  "packageManager": "yarn@4.5.3",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@atproto/api": "^0.13.28",
+    "@google/generative-ai": "^0.21.0",
+    "@huggingface/inference": "^3.1.5",
+    "@langchain/core": "^0.1.48",
+    "ai": "^2.2.36",
+    "axios": "^1.7.9",
+    "bcrypt": "^5.1.1",
+    "composio-core": "latest",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "langchain": "^0.1.28",
+    "mongodb": "^6.12.0",
+    "mongoose": "^8.9.5",
+    "morgan": "^1.10.0",
+    "winston": "^3.17.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
